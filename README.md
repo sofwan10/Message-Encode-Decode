@@ -13,5 +13,9 @@ To build this project we will use basic concept of python, Tkinter, and base64 l
 
 To install the library we use pip install command on the command prompt
 
-<html>pip install tkinter</html>
-<html>pip install base64</html>
+```
+pip install tkinter
+```
+```
+pip install base64
+```
